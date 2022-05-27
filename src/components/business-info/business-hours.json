@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_business_info_business_hours",
+  "info": {
+    "displayName": "BusinessHours",
+    "icon": "hourglass-half",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "hours": {
+      "type": "string"
+    },
+    "days": {
+      "type": "string"
+    }
+  }
+}
